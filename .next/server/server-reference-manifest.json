@@ -1,0 +1,26 @@
+{
+  "node": {
+    "8fdeb9a1c9dfd7011847711f19942d8fa7c98468": {
+      "workers": {
+        "app/blog/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cprena%5C%5COneDrive%5C%5CDesktop%5C%5CBlogging%5C%5Cactions%5C%5CuploadActions.js%22%2C%5B%22deleteManyPhotos%22%2C%22deletePhoto%22%5D%5D%5D&__client_imported__=true!",
+        "app/user/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cprena%5C%5COneDrive%5C%5CDesktop%5C%5CBlogging%5C%5Cactions%5C%5CuploadActions.js%22%2C%5B%22deleteManyPhotos%22%2C%22deletePhoto%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/blog/[id]/page": "action-browser",
+        "app/user/[id]/page": "action-browser"
+      }
+    },
+    "a1a0420ae841e22e50ce9001129c7ef0eb2e843a": {
+      "workers": {
+        "app/blog/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cprena%5C%5COneDrive%5C%5CDesktop%5C%5CBlogging%5C%5Cactions%5C%5CuploadActions.js%22%2C%5B%22deleteManyPhotos%22%2C%22deletePhoto%22%5D%5D%5D&__client_imported__=true!",
+        "app/user/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cprena%5C%5COneDrive%5C%5CDesktop%5C%5CBlogging%5C%5Cactions%5C%5CuploadActions.js%22%2C%5B%22deleteManyPhotos%22%2C%22deletePhoto%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/blog/[id]/page": "action-browser",
+        "app/user/[id]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "b+6C5PrPlJTiXMhQbsi5AjeyUfq9W7PFNtfl29wOrPo="
+}
